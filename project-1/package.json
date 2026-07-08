@@ -1,0 +1,14 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Basic Node.js Login Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
